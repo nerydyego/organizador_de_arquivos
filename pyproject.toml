@@ -1,0 +1,17 @@
+[project]
+name = "organizador-arquivos"
+version = "0.1.0"
+description = "Ferramenta Python para organização automática de arquivos por extensão."
+authors = [
+    {name = "Dyego Nery"}
+]
+license = "MIT"
+requires-python = ">=3.11"
+dependencies = [
+]
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

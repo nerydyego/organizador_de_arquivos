@@ -1,0 +1,28 @@
+# Ambiente virtual
+.venv/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.py[cod]
+
+# Cache de ferramentas e testes
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Configurações locais e credenciais
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Logs gerados pela aplicação
+logs/*.log
+
+# Configurações locais do Poetry
+poetry.toml
