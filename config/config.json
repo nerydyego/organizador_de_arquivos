@@ -1,0 +1,10 @@
+{
+  "diretorio_origem": "C:/Users/dyego/Downloads",
+  "destinos": {
+    ".pdf": "C:/Arquivos/Documentos",
+    ".docx": "C:/Arquivos/Documentos",
+    ".xlsx": "C:/Arquivos/Planilhas",
+    ".jpg": "C:/Arquivos/Imagens",
+    ".png": "C:/Arquivos/Imagens"
+  }
+}

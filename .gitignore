@@ -26,3 +26,12 @@ logs/*.log
 
 # Configurações locais do Poetry
 poetry.toml
+
+# Arquivo teste
+tests/teste.py
+src/configuracao_test.py
+estrutura.txt
+
+# Documentação de Projeto   
+docs/fluxo.md
+docs/roadmap.md
